@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 049499dc33ef32845bf2967aa7cb8e3c, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "Despiertas en una cama de hospital. No logras comprender nada. \r\nUn
+    holograma en la pared muestra a L\xF3pez Obrador, muy anciano, \r\nhablando en
+    una conferencia de prensa. A lado de tu cama hay un\r\ndispositivo cuadrado y
+    delgado, de apariencia met\xE1lica, con la leyenda - A Y U D A - flotando encima.\r\nTe
+    levantas de la cama, observas por la puerta y no ves a nadie alrededor. \r\n\r\n\xBFQu\xE9
+    deseas hacer?\r\n1.- Interactuar con el dispositivo\r\n2.- Salir de la habitaci\xF3n "
+  nextStates:
+  - {fileID: 11400000, guid: 0bd8fec841e6bb94f8eae71dac0f0aef, type: 2}
+  - {fileID: 11400000, guid: 6cadaeaacf6ace34eab45d8b2a00cb83, type: 2}

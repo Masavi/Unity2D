@@ -1,0 +1,9 @@
+Despiertas en una cama de hospital. No logras comprender nada. 
+Un holograma en la pared muestra a López Obrador, muy anciano, 
+hablando en una conferencia de prensa. A lado de tu cama hay un
+dispositivo cuadrado y delgado, de apariencia metálica, con la leyenda - A Y U D A - flotando encima.
+Te levantas de la cama, observas por la puerta y no ves a nadie alrededor. 
+
+¿Qué deseas hacer?
+1.- Interactuar con el dispositivo
+2.- Salir de la habitación 
